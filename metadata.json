@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Recurring Cost Manager",
+  "description": "An application to help e-commerce store owners manage their monthly operational costs, visualize spending, get renewal alerts, and receive AI-powered suggestions for cost optimization.",
+  "requestFramePermissions": []
+}
